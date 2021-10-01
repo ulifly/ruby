@@ -21,6 +21,7 @@ end
 n1 = 100
 n2 = 5
 
+
 res = suma(n1, n2)
 puts "el resultado de la suma de #{n1} + #{n2} es: #{res}"
 
@@ -32,3 +33,5 @@ puts "el resultado de la multiplicacion de #{n1} X #{n2} es: #{res}"
 
 res = div(n1, n2)
 puts "el resultado de la division de #{n1} / #{n2} es: #{res}"
+
+puts "probando datos "
