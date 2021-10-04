@@ -7,4 +7,3 @@ else
   puts "no se cumnple con la con la condicion"
 
 end
-2
